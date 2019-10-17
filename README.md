@@ -15,18 +15,29 @@ e.python identity operator:-These operators test if the two operands share an id
 
 
 Explain 2 built-in methods for strings
+
 a.capitalize()-Capitalizes first letter of string
-b.count(string,beg=0,end=lenstringCounts how many times str occurs in string or in a substring of string if starting index beg and ending index end are given.
+
+b.count(string,beg=0,end=lenstringCounts how many times str occurs in string or in a substring of string if starting index beg and ending index end are given
+
 #####PYTHON DICTIONARIES
-Q3 a.define a dictionary as used in pythonprogramming
+
+
+Q3 a.define a dictionary as used in python programming
+
  A Dictionary in Python is an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair. Key value is provided in the dictionary to make it more optimized. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’.
 
 b. list five dictionary methods
- clear()-Removes all the elements from the dictionary
- copy()-Returns a copy of the dictionary
- fromkeys()-Returns a dictionary with the specified keys and values
- update()-Updates the dictionary with the specified key-value pairs
- item()- a list containing a tuple for each key value pair
+
+i.clear()-Removes all the elements from the dictionary
+ 
+ii. copy()-Returns a copy of the dictionary
+ 
+iii. fromkeys()-Returns a dictionary with the specified keys and values
+  
+ iv.item()- a list containing a tuple for each key value pair
+ v.values()-Returns a list of all the values in the dictionary
+
 
 
 
